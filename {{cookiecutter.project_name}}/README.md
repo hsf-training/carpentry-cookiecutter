@@ -64,7 +64,7 @@ To cite this lesson, please consult with [CITATION](CITATION).
 
 <!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, he should get a dedicated shoutout here -->
 
-Thanks goes to these wonderful people ([emoji key][allcontrib-emoji-key] who contributed to
+Thanks goes to these wonderful people ([emoji key][allcontrib-emoji-key]) who contributed to
 the content of the lesson:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
