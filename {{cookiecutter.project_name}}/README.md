@@ -22,6 +22,8 @@ FIXME: Describe your module
 Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
 
 ## 🤗 Contributing
+<!-- CENTRALLY MAINTAINED SECTION -->
+<!-- Remove the above marker to disable having this section be overwritten -->
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
