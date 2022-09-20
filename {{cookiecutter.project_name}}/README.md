@@ -76,7 +76,7 @@ the content of the lesson:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Even more people contributed to the framework, but they are too many to list!
-Instead, all regular contributors are listed on our [HSF Training Community page][hsf-training-community]
+Instead, all regular contributors are listed on our [HSF Training Community page][hsf-training-community].
 
 [lesson-example]: https://carpentries.github.io/lesson-example
 [pre-commit]: https://pre-commit.com/
