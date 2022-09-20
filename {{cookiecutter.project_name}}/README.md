@@ -1,6 +1,6 @@
-[![HSF Training Center](https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4)](https://hepsoftwarefoundation.org/training/curriculum.html)
-[![Upcoming Events](https://img.shields.io/badge/upcoming%20events-browse-ff69b4)](https://hepsoftwarefoundation.org/Schools/events.html)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hsftraining?style=social)](https://twitter.com/hsftraining)
+[![HSF Training Center][training-center-badge]][hsf-training-center]
+[![Upcoming Events][schools-badge]][schools]
+[![Twitter Follow][twitter-badge]][twitter]
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
 [![pages-build-deployment](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment)
@@ -13,8 +13,7 @@
 > **Note**
 > Click [here](https://hsf-training.github.io/{{cookiecutter.project_name}}/) for the training website!
 
-This training module introduces matplotlib and creates plots commonly used in HEP.
-It also introduces [mplhep](https://github.com/scikit-hep/mplhep/), a plotting library designed specifically for HEP plots.
+FIXME: Describe your module
 
 ## 📅 Past events and videos
 
@@ -34,7 +33,7 @@ We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTR
 the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
 how to write new episodes.
 
-Quick summary of how to get a local preview: Install [jekyll](https://jekyllrb.com/) and then run
+Quick summary of how to get a local preview: Install [jekyll][jekyll] and then run
 
 ```
 bundle install
@@ -51,11 +50,11 @@ pip3 install pre-commit
 pre-commit install
 ```
 
-Please see the current list of [issues](https://github.com/hsf-training/{{cookiecutter.project_name}}/issues) for ideas for contributing to this
+Please see the current list of [issues][issues] for ideas for contributing to this
 repository. For making your contribution, we use the GitHub flow, which is
-nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
+nicely explained in the chapter [Contributing to a Project][progit] in Pro Git
 by Scott Chacon.
-Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg). This indicates that the maintainers will welcome a pull request fixing this issue.
+Look for the tag ![good_first_issue][gfi-badge]. This indicates that the maintainers will welcome a pull request fixing this issue.
 
 ## ✍️ Citation
 
@@ -63,7 +62,9 @@ To cite this lesson, please consult with [CITATION](CITATION).
 
 ## 💖 Authors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)) who contributed to
+<!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, he should get a dedicated shoutout here -->
+
+Thanks goes to these wonderful people ([emoji key][allcontrib-emoji-key] who contributed to
 the content of the lesson:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -80,3 +81,14 @@ Instead, all regular contributors are listed on our [HSF Training Community page
 [lesson-example]: https://carpentries.github.io/lesson-example
 [pre-commit]: https://pre-commit.com/
 [hsf-training-community]: https://hepsoftwarefoundation.org/training/community
+[hsf-training-center]: https://hepsoftwarefoundation.org/training/curriculum.html
+[training-center-badge]: https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4
+[schools]: https://hepsoftwarefoundation.org/Schools/events.html
+[issues]: https://github.com/hsf-training/{{cookiecutter.project_name}}/issues
+[progit]: http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
+[jekyll]: https://jekyllrb.com/
+[allcontrib-emoji-key]: https://allcontributors.org/docs/en/emoji-key
+[gfi-badge]: https://img.shields.io/badge/-good%20first%20issue-gold.svg
+[schools-badge]: https://img.shields.io/badge/upcoming%20events-browse-ff69b4
+[twitter-badge]: https://img.shields.io/twitter/follow/hsftraining?style=social
+[twitter]: https://twitter.com/hsftraining
