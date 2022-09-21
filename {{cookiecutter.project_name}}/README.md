@@ -5,7 +5,7 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
 [![pages-build-deployment](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment)
 
-# FIXME: TITLE
+# FIXME: {{cookiecutter.title}}
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -14,6 +14,8 @@
 > Click [here](https://hsf-training.github.io/{{cookiecutter.project_name}}/) for the training website!
 
 FIXME: Describe your module
+
+{{cookiecutter.description}}
 
 ## 📅 Past events and videos
 
@@ -28,7 +30,7 @@ Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-If you make non-trivial changes (i.e., more than fixing a simple type), you are eligible to be added to the [HSF Training Community page][hsf-training-community],
+If you make non-trivial changes (i.e., more than fixing a simple typo), you are eligible to be added to the [HSF Training Community page][hsf-training-community],
 as well as to the list of contributors [below](#contributors-).
 
 We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
@@ -58,9 +60,7 @@ nicely explained in the chapter [Contributing to a Project][progit] in Pro Git
 by Scott Chacon.
 Look for the tag [![good_first_issue]][gfi-badge], which marks particularly simple issues to get you started.
 
-## ✍️ Citation
-
-To cite this lesson, please consult with [CITATION](CITATION).
+## Maintainers
 
 ## 💖 Authors
 
@@ -79,6 +79,11 @@ the content of the lesson:
 
 Even more people contributed to the framework, but they are too many to list!
 Instead, all regular contributors are listed on our [HSF Training Community page][hsf-training-community].
+
+## ✍️ Citation
+
+To cite this lesson, please consult with [CITATION](CITATION).
+
 
 [lesson-example]: https://carpentries.github.io/lesson-example
 [pre-commit]: https://pre-commit.com/
