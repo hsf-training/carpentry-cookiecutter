@@ -78,10 +78,6 @@ the content of the lesson:
 Even more people contributed to the framework, but they are too many to list!
 Instead, all regular contributors are listed on our [HSF Training Community page][hsf-training-community].
 
-## ✍️ Citation
-
-To cite this lesson, please consult with [CITATION](CITATION).
-
 
 [lesson-example]: https://carpentries.github.io/lesson-example
 [pre-commit]: https://pre-commit.com/
