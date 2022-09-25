@@ -2,13 +2,13 @@
 [![Upcoming Events][schools-badge]][schools]
 [![Twitter Follow][twitter-badge]][twitter]
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
 [![pages-build-deployment](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/{{cookiecutter.project_name}}/actions/workflows/pages/pages-build-deployment)
 
 # {{cookiecutter.title}}
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > **Note**
 > Click [here](https://hsf-training.github.io/{{cookiecutter.project_name}}/) for the training website!
