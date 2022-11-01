@@ -59,7 +59,7 @@ nicely explained in the chapter [Contributing to a Project][progit] in Pro Git
 by Scott Chacon.
 Look for the tag [![good_first_issue]][gfi-badge], which marks particularly simple issues to get you started.
 
-
+<!-- END CENTRALLY MAINTAINED SECTION -->
 ## 💖 Authors
 
 <!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, he should get a dedicated shoutout here -->
