@@ -12,6 +12,8 @@ It also introduces [mplhep](https://github.com/scikit-hep/mplhep/), a plotting l
 > * Basic Python knowledge, e.g. through the [Software Carpentry Programming with Python lesson](https://swcarpentry.github.io/python-novice-inflammation/)
 {: .prereq}
 
+{% raw %}
 {% include curriculum.html %}
 
 {% include links.md %}
+{% endraw %}

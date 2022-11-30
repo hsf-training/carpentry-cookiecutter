@@ -1,0 +1,6 @@
+{
+  "project_name": "hsf-training-a-lesson-webpage",
+  "description": "This is a package",
+  "title": "Title of the lesson",
+  "url": "https://github.com/hsf/{{ cookiecutter.project_name }}"
+}

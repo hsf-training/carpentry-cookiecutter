@@ -1,3 +1,4 @@
+{% raw %}
 ---
 title: Figures
 ---
@@ -77,3 +78,4 @@ title: Figures
 {% endfor %}
 
 {% include links.md %}
+{% endraw %}
