@@ -3,7 +3,7 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/carpentry-cookiecutter/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/carpentry-cookiecutter/main)
 [![Check Markdown links](https://github.com/hsf-training/carpentry-cookiecutter/actions/workflows/check-links.yaml/badge.svg)](https://github.com/hsf-training/carpentry-cookiecutter/actions/workflows/check-links.yaml)
 
-[Cookiecutter](https://github.com/cookiecutter/cookiecutter) for initializing an [HSF Training module](https://hepsoftwarefoundation.org/training/curriculum.html) in [carpentries](https://software-carpentry.org/) style.
+[Cookiecutter](https://github.com/cookiecutter/cookiecutter) for initializing an [HSF Training module](https://hepsoftwarefoundation.org/training/curriculum.html) in [carpentries](https://software-carpentry.org/) style (see, for example, our [training on CI/CD](https://hsf-training.github.io/hsf-training-cicd/)).
 
 This repository allows to easily set up a new [HSF Training module](hepsoftwarefoundation.org/training/curriculum.html) in [carpentries](https://software-carpentry.org/) style.
 
