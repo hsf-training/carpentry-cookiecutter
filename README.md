@@ -8,7 +8,7 @@ This repository holds the template for starting a new [HSF Training module](http
 ## How to start a new module
 
 > **Note**
-> We happily do this for you! It's always best to talk to us first, if you plan to contribute to our [curriculum](https://hepsoftwarefoundation.org/training/curriculum.html). 
+> We happily do this for you! It's always best to talk to us first, if you plan to contribute to our [curriculum](https://hepsoftwarefoundation.org/training/curriculum.html).
 
 To start a new module, install [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and run
 
@@ -21,7 +21,7 @@ cookiecutter https://github.com/hsf-training/carpentry-cookiecutter/
 After answering the questions, you have a directory with a working setup and a `README.md`.
 Follow the instructions in `README.md` to take a first look at the corresponding webpage.
 
-### Fill in content 
+### Fill in content
 
 * Follow the "Jekyll Setup for Lesson Development" instructions of the [carpentry tutorial setup instructions](https://carpentries.github.io/lesson-example/setup.html).
 * If you are interested to study the pedagogical concepts behind the carpentries approach, head [to their handbook](https://carpentries.github.io/curriculum-development/)
