@@ -21,6 +21,21 @@ cookiecutter https://github.com/hsf-training/carpentry-cookiecutter/
 After answering the questions, you have a directory with a working setup and a `README.md`.
 Follow the instructions in `README.md` to take a first look at the corresponding webpage.
 
+### Additional steps
+
+Install [`pre-commit`](https://pre-commit.com/) and install the corresponding hooks with
+
+```bash
+cd /path/to/your/module
+pre-commit install
+```
+
+### Configuring your github repository
+
+After you initialized git and linked it to a github repository, follow the
+[github guide](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+to set up automatic deployment with github pages.
+
 ### Fill in content
 
 * Follow the "Jekyll Setup for Lesson Development" instructions of the [carpentry tutorial setup instructions](https://carpentries.github.io/lesson-example/setup.html).
