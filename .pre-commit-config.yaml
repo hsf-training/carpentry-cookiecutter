@@ -30,4 +30,3 @@ repos:
       - id: codespell
         args: ["-I", "codespell.txt"]
         files: '.*\.md'
-
