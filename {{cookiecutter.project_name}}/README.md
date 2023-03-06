@@ -18,7 +18,7 @@
 
 ## 📅 Past events and videos
 
-* 🎥 [Fixme Sample event Dec 1 - 13, 2022](indico.cern.ch/)
+* 🎥 [Fixme Sample event Dec 1 - 13, 2022](https://indico.cern.ch/)
 
 Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
 
