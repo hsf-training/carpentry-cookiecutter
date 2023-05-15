@@ -1,10 +1,13 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "https://github.com/.*/issues.*"
+      "pattern": "https://github.com/issues.*"
     },
     {
-      "pattern": "https://github.com/.*/pulls.*"
+      "pattern": "https://github.com/pulls.*"
+    },
+    {
+      "pattern": "https://twitter.com.*"
     }
   ]
 }
