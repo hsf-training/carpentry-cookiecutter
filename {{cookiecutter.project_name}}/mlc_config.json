@@ -8,6 +8,9 @@
     },
     {
       "pattern": "https://twitter.com.*"
+    },
+    {
+      "pattern": "https://opensource.org.*"
     }
   ]
 }
